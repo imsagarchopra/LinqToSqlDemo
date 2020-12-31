@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD Operations", "CRUD Ope
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewLinqToSqlQuery", "ViewLinqToSqlQuery\ViewLinqToSqlQuery.csproj", "{A79A8356-069C-4CE5-9297-BD06BD8BA9B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingStoredProcedures", "UsingStoredProcedures\UsingStoredProcedures.csproj", "{98857E7A-0888-4D9D-959C-CF388E50459D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A79A8356-069C-4CE5-9297-BD06BD8BA9B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A79A8356-069C-4CE5-9297-BD06BD8BA9B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A79A8356-069C-4CE5-9297-BD06BD8BA9B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98857E7A-0888-4D9D-959C-CF388E50459D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98857E7A-0888-4D9D-959C-CF388E50459D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98857E7A-0888-4D9D-959C-CF388E50459D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98857E7A-0888-4D9D-959C-CF388E50459D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
